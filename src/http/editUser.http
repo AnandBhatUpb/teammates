@@ -1,0 +1,10 @@
+PUT http://localhost:8080/user/1
+Content-Type: application/json
+
+{
+  "firstName": "Praveen",
+  "surname": "Bhat",
+  "position": "fullstack developer",
+  "githubProfile": "url2"
+
+}

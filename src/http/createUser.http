@@ -1,0 +1,10 @@
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "firstName": "Anand",
+  "surname": "Bhat",
+  "position": "software developer",
+  "githubProfile": "url1"
+
+}
